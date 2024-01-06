@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Total Quality Logistics",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on IVR systems", "Reduced database calls by 200%"],
+    "imageSrc": "history/tql.png"
+  },
+  {
+    "role": "Teaching Assistant",
+    "organisation": "University of South Florida",
+    "startDate": "Aug, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Improved grade distribution by 7%",
+      "Created material for 900 students"
+    ],
+    "imageSrc": "history/usf.png"
+  },
+  {
+    "role": "Application Developer Intern",
+    "organisation": "Total Quality Logistics",
+    "startDate": "May, 2022",
+    "endDate": "Aug, 2023",
+    "experiences": ["Built automated tests of core apps", "Added new functions to chatbot"],
+    "imageSrc": "history/tql.png"
+  }
+]
